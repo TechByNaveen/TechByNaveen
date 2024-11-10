@@ -36,8 +36,7 @@ Welcome to my GitHub profile! I'm passionate about MLOps, software development, 
 
 ## 📫 Let's Connect!
 
-[![LinkedIn](https://www.linkedin.com/in/naveen-s-62014b277?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
-
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/naveen-s-62014b277)
 ---
 
 Thank you! 😊
