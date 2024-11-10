@@ -10,22 +10,26 @@ Welcome to my GitHub profile! I'm passionate about MLOps, software development, 
 
 ## 🔧 Technologies & Tools
 
-### Programming Languages
-![Java](https://img.shields.io/badge/-Java-333?style=flat&logo=java)
-![C](https://img.shields.io/badge/-C-333?style=flat&logo=c)
 
-### Web Development
-![MongoDB](https://img.shields.io/badge/-MongoDB-333?style=flat&logo=mongodb)
-![Express.js](https://img.shields.io/badge/-Express.js-333?style=flat&logo=express)
-![React](https://img.shields.io/badge/-React-333?style=flat&logo=react)
-![Node.js](https://img.shields.io/badge/-Node.js-333?style=flat&logo=node.js)
+### Programming Languages
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40" alt="Java" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" height="40" alt="C" />
+
+### Web Development (MERN Stack)
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" width="40" height="40" alt="MongoDB" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" height="40" alt="Express.js" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" width="40" height="40" alt="React" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40" alt="Node.js" />
 
 ### Databases
-![MySQL](https://img.shields.io/badge/-MySQL-333?style=flat&logo=mysql)
-![Database Design](https://img.shields.io/badge/-Database%20Design-333?style=flat)
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="40" height="40" alt="MySQL" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/database/database-original.svg" width="40" height="40" alt="Database Design" />
 
 ### MLOps & DevOps
-![MLOps](https://img.shields.io/badge/-MLOps-333?style=flat)
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" width="40" height="40" alt="GitHub Actions" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" width="40" height="40" alt="Git" />
+
 
 
 
