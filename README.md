@@ -38,9 +38,12 @@ Welcome to my GitHub profile! I'm passionate about MLOps, software development, 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" width="40" height="40" alt="GitHub Actions" />
 </p>
 
-## 📫 Let's Connect!
-
+### 📫 Let's Connect!
+<p>
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/naveen-s-62014b277)
+[![WhatsApp](https://img.shields.io/badge/-WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white)](https://wa.me/919442615993)
+</p>
+
 ---
 
 Thank you! 😊
