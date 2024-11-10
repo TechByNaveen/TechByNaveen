@@ -40,7 +40,9 @@ Welcome to my GitHub profile! I'm passionate about MLOps, software development, 
 
 ### 📫 Let's Connect!
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/naveen-s-62014b277)
-<a href="https://wa.me/919442615993">
+
+   <a href="https://wa.me/919442615993">
   <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" width="40" height="40" />
 </a>
+---
 Thank you! 😊
