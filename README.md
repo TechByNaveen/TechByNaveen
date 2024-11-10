@@ -36,10 +36,6 @@ Welcome to my GitHub profile! I'm passionate about MLOps, software development, 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" width="40" height="40" alt="GitHub Actions" />
 </p>
 
-
-
-
-
 ## 📌 Top Projects
 
 - [**Project 1**](https://github.com/your-username/project1) - Brief description of the project.
