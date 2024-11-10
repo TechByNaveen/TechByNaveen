@@ -46,7 +46,7 @@ Welcome to my GitHub profile! I'm passionate about MLOps, software development, 
 <a href="https://wa.me/919442615993">
   <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" width="40" height="40" />
 </a>
-
+[![Email](https://img.shields.io/badge/Email-naveenns20804%40gmail.com-blue?style=flat&logo=gmail&logoColor=white)](mailto:naveenns20804@gmail.com)
 ---
 <p align="center">
   Thank You! 😊
