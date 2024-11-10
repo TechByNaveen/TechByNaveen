@@ -40,8 +40,10 @@ Welcome to my GitHub profile! I'm passionate about MLOps, software development, 
 
 ### 📫 Let's Connect!
 <p>
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/naveen-s-62014b277)
-[![WhatsApp](https://img.shields.io/badge/-WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white)](https://wa.me/919442615993)
+
+[![LinkedIn](https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo_2023.png)](https://www.linkedin.com/in/naveen-s-62014b277)
+[![WhatsApp](https://upload.wikimedia.org/wikipedia/commons/6/60/WhatsApp.svg)](https://wa.me/919442615993)
+
 </p>
 
 ---
