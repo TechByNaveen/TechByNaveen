@@ -39,10 +39,7 @@ Welcome to my GitHub profile! I'm passionate about MLOps, software development, 
 </p>
 
 ### 📫 Let's Connect!
-[![LinkedIn](https://upload.wikimedia.org/wikipedia/commons/a/a9/LinkedIn_icon_2023.svg)](https://www.linkedin.com/in/naveen-s-62014b277)
-[![WhatsApp](https://upload.wikimedia.org/wikipedia/commons/6/60/WhatsApp.svg)](https://wa.me/919442615993)
-
-
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/naveen-s-62014b277)
 ---
 
 Thank you! 😊
