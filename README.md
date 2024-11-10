@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about MLOps, software development, 
 </p>
 
 
-### Databases
+
 ### Databases
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="40" height="40" alt="MySQL" />
@@ -39,7 +39,6 @@ Welcome to my GitHub profile! I'm passionate about MLOps, software development, 
 </p>
 
 ---
-
 ### 📫 Let's Connect!
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/naveen-s-62014b277)
 <a href="https://wa.me/919442615993">
@@ -47,5 +46,4 @@ Welcome to my GitHub profile! I'm passionate about MLOps, software development, 
 </a>
 
 ---
-
 Thank you! 😊
