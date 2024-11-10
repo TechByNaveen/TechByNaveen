@@ -26,13 +26,8 @@ Welcome to my GitHub profile! I'm passionate about MLOps, software development, 
 
 ### MLOps & DevOps
 ![MLOps](https://img.shields.io/badge/-MLOps-333?style=flat)
-![Docker](https://img.shields.io/badge/-Docker-333?style=flat&logo=docker)
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-333?style=flat&logo=kubernetes)
-![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-333?style=flat&logo=github-actions)
 
-## 📈 GitHub Stats
 
-![Naveen's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
 
 ## 📌 Top Projects
 
@@ -41,7 +36,7 @@ Welcome to my GitHub profile! I'm passionate about MLOps, software development, 
 
 ## 📫 Let's Connect!
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
+[![LinkedIn](https://www.linkedin.com/in/naveen-s-62014b277?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 
 ---
 
