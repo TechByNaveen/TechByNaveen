@@ -45,4 +45,7 @@ Welcome to my GitHub profile! I'm passionate about MLOps, software development, 
 </a>
 
 ---
-Thank you! 😊
+<p align="center">
+  Thank You! 😊
+</p>
+
