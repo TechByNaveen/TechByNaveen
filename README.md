@@ -41,8 +41,10 @@ Welcome to my GitHub profile! I'm passionate about MLOps, software development, 
 ### 📫 Let's Connect!
 
 
+### 📫 Let's Connect!
 [![LinkedIn](https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo_2023.png)](https://www.linkedin.com/in/naveen-s-62014b277)
 [![WhatsApp](https://upload.wikimedia.org/wikipedia/commons/6/60/WhatsApp.svg)](https://wa.me/919442615993)
+
 
 ---
 
