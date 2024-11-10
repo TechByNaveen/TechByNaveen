@@ -26,10 +26,12 @@ Welcome to my GitHub profile! I'm passionate about MLOps, software development, 
 
 
 ### Databases
+### Databases
 <p>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="40" height="40" alt="MySQL" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/database/database-original.svg" width="40" height="40" alt="Database Design" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="40" height="40" alt="MySQL" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" width="40" height="40" alt="MongoDB" />
 </p>
+
 
 ### MLOps & DevOps
 <p>
